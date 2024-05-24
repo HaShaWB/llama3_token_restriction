@@ -22,7 +22,7 @@
   'Explanation of theory of general relativity in 2 sentences: 1. The general\nrela tive\ntheo\nry\nof\nAl\nber\nt\nEi\nn\nst\ne\ni\nn\n(1915) is a\ntheo\nry\nof\ng\nra\nvi\nty\nthat\ndes\ncr\ni\nbes\nthe\nin\nter\nac\nti\non\nbe\ntw\nee\n'
 ```
 - So, I think I should moderate the factor to $\times \alpha$
-### Put $\times 1.01$ to allowd token
+### Put $\times 1.2$ to allowd token
 - It finnally works!!
 - following is example
   ```
