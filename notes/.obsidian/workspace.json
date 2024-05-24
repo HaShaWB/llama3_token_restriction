@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54c47788735bbf06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "text generation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "special token.md",
+                "file": "text generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "special token.md",
+                "file": "text generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "special token.md"
+                "file": "text generation.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a791b17253a8d395",
+  "active": "54c47788735bbf06",
   "lastOpenFiles": [
-    "token selection.md",
     "special token.md",
+    "text generation.md",
+    "token selection.md",
     "Welcome.md",
     "about token"
   ]
